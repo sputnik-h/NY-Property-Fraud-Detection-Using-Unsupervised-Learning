@@ -85,3 +85,6 @@ These findings highlight properties that warrant further investigation for poten
 3. **Project Report 3.pdf:** Full project report, including methodology, results, and recommendations.
 
 ---
+
+## Acknowledgments
+This project was completed as part of the **DSO 562: Predictive Analytics** course at the University of Southern California. I would like to thank Professor Stephen Coggashell for providing the foundational code and guidance that supported the development of this project. 
